@@ -1,0 +1,73 @@
+body {
+  background-color: #FF0F55;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'SF UI Text';
+  color: white;
+}
+
+.logo {
+  width: 64px;
+  margin: 60px auto 0;
+}
+
+.title-container {
+  margin: 88px 0;
+  width: 364px;
+  text-align: center;
+}
+
+.beta-signup input {
+  height: 20px;
+  width: 294px;
+  border: 3px solid white;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.0);
+  color: white;
+  font-weight: 800;
+  font-size: 17px;
+  outline: none;
+}
+
+.beta-signup input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: white;
+}
+.beta-signup input::-moz-placeholder { /* Firefox 19+ */
+  color: white;
+}
+.beta-signup input:-ms-input-placeholder { /* IE 10+ */
+  color: white;
+}
+.beta-signup input:-moz-placeholder { /* Firefox 18- */
+  color: white;
+}
+
+.beta-signup button {
+  height: 46px;
+  border: none;
+  background-color: white;
+  color: #FF1055;
+  font-weight: 800;
+  font-size: 17px;
+  position: relative;
+  padding: 13px 12px;
+  left: -5px;
+  outline: none;
+}
+
+.page-links {
+  margin-top: 90px;
+}
+
+.link-container {
+  margin-bottom: 45px;
+  text-align: center;
+}
+
+.link {
+  color: white;
+  font-weight: 800;
+  text-decoration: none;
+  font-size: 17px;
+}

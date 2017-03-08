@@ -1,0 +1,33 @@
+.title-container {
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0;
+}
+
+.about-text {
+  font-weight: 900;
+  text-align: center;
+}
+
+.divider {
+  margin: 40px 0;
+}
+
+.name {
+  text-align: center;
+  font-weight: 900;
+}
+
+.icon-list {
+  width: 128px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.blurb-container {
+  margin-bottom: 40px;
+}
