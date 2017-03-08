@@ -18,7 +18,7 @@ body {
   text-align: center;
 }
 
-.beta-signup input {
+.beta-signup input.email {
   height: 20px;
   width: 294px;
   border: 3px solid white;
@@ -43,7 +43,8 @@ body {
   color: white;
 }
 
-.beta-signup button {
+.beta-signup button,
+.beta-signup input.button {
   height: 46px;
   border: none;
   background-color: white;
