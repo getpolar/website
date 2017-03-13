@@ -6,3 +6,4 @@ Making dating great again.
 
 - Test on mobile
 - Fonts on Windows
+- Validate email client-side (i.e. prohibit unicode chars)
