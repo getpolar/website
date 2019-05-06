@@ -8,3 +8,4 @@ Making dating great again.
 - Test on Windows
   - Fonts
 - Validate emails on frontend (i.e. no unicode chars, etc.)
+
